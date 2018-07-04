@@ -23,31 +23,6 @@ void Input(Job *job_table, FreeArea *area_table, int size) {
 	cout << "=============================" << endl;
 	cout << "||         输入完成        ||" << endl;
 	cout << "=============================" << endl;
-	
-	//测试数据
-	/*
-	job_table[0] = { 1, 5, 5 };
-	job_table[1] = { 2, 26, 6 };
-	job_table[2] = { 3, 14, 2 };
-	job_table[3] = { 4, 32, 14 };
-	job_table[4] = { 5, 16, 4 };
-	job_table[5] = { 6, 46, 20 };
-	job_table[6] = { 7, 20, 6 };
-	job_table[7] = { 0, 0, 0 };
-	job_table[8] = { 0, 0, 0 };
-	job_table[9] = { 0, 0, 0 };
-
-	area_table[0] = { 0, 0, 'N'};
-	area_table[1] = { 66, 62, 'F' };
-	area_table[2] = { 0, 0, 'N' };
-	area_table[3] = { 0, 0, 'N' };
-	area_table[4] = { 0, 0, 'N' };
-	area_table[5] = { 0, 0, 'N' };
-	area_table[6] = { 0, 0, 'N' };
-	area_table[7] = { 0, 0, 'N' };
-	area_table[8] = { 0, 0, 'N' };
-	area_table[9] = { 0, 0, 'N' };
-	*/
 }
 
 /*
